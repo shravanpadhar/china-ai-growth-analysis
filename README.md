@@ -237,7 +237,8 @@ This project is licensed under **CC0 1.0 Universal (Public Domain)**. The datase
  
 ## 👤 Author
  
-> Notebook- Shravan Padhar   
+> Notebook- Shravan Padhar
+> Notebook link-[Kaggle — Notebook ](https://www.kaggle.com/shravanpadhar/gdp-forecasting-linear-regression-r)
 > Dataset: China AI Growth Dataset (2010–2026) — Kaggle
  
 ---
